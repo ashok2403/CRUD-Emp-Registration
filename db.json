@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Ashok",
+      "lastName": "Prakash",
+      "email": "ashokkumar17295@gmail.com",
+      "mobile": "+917337732465",
+      "salary": "900000"
+    },
+    {
+      "id": 2,
+      "firstName": "ashok",
+      "lastName": "prakash",
+      "email": "akd@gmail.com",
+      "mobile": "74148525963",
+      "salary": "3698520147"
+    },
+    {
+      "id": 3,
+      "firstName": "praveen",
+      "lastName": "Kumar",
+      "email": "praveen2gmail.com",
+      "mobile": "7415885296",
+      "salary": "74158526963"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
